@@ -1,0 +1,21 @@
+File; Course module viewed; #SUP: 0.44607934455163945
+System; Course viewed; Course: Програмни езици; #SUP: 0.427579373874164
+web; #SUP: 0.999915408371458
+System; Course: Програмни езици; #SUP: 0.5122742488473245
+System; web; #SUP: 0.5138495336041567
+web; Course module viewed; #SUP: 0.453577365964629
+Course: Програмни езици; web; #SUP: 0.5446108763102051
+System; Course: Програмни езици; web; #SUP: 0.5122742488473245
+Course viewed; Course: Програмни езици; #SUP: 0.427579373874164
+System; Course viewed; web; #SUP: 0.427579373874164
+web; File; #SUP: 0.44607934455163945
+Course module viewed; #SUP: 0.453577365964629
+Course viewed; #SUP: 0.427579373874164
+System; #SUP: 0.5138495336041567
+System; Course viewed; #SUP: 0.427579373874164
+Course viewed; web; #SUP: 0.427579373874164
+web; File; Course module viewed; #SUP: 0.44607934455163945
+System; Course viewed; Course: Програмни езици; web; #SUP: 0.427579373874164
+File; #SUP: 0.44607934455163945
+Course viewed; Course: Програмни езици; web; #SUP: 0.427579373874164
+Course: Програмни езици; #SUP: 0.5446946240068581
